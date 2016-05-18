@@ -4,7 +4,6 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/cloudrail-si-example-android.iml" filepath="$PROJECT_DIR$/cloudrail-si-example-android.iml" />
-      <module fileurl="file://$PROJECT_DIR$/cloudrail-si-release/cloudrail-si-release.iml" filepath="$PROJECT_DIR$/cloudrail-si-release/cloudrail-si-release.iml" />
     </modules>
   </component>
 </project>

@@ -415,7 +415,7 @@ public class Files extends Fragment {
                     next += "/";
                 }
                 next += name;
-                getService().upload(next, fs, size);
+                getService().upload(next, fs, size, true);
 
                 getOwnActivity().runOnUiThread(new Runnable() {
                     @Override

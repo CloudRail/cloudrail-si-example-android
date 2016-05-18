@@ -15,8 +15,6 @@ import android.support.v7.widget.Toolbar;
 import android.view.Menu;
 import android.view.MenuItem;
 
-import com.cloudrail.si.services.Service;
-
 public class FileViewer extends AppCompatActivity
         implements NavigationView.OnNavigationItemSelectedListener {
 
