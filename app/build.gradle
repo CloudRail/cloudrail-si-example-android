@@ -34,5 +34,5 @@ dependencies {
     compile 'com.android.support:recyclerview-v7:23.2.1'
     compile 'com.android.support:design:23.2.1'
     compile 'com.mcxiaoke.volley:library:1.0.0'
-    compile 'com.cloudrail:cloudrail-si-android:2.0.1'
+    compile 'com.cloudrail:cloudrail-si-android:2.1.0'
 }
